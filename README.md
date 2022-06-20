@@ -19,5 +19,8 @@ Toast Messages using Vanilla JavaScript and CSS
   });
 ``` 
 
+### Output
+![MarineGEO circle logo](https://raw.githubusercontent.com/4akhilkumar/ToastMessageJS/master/Screenshot%202022-06-20%20141141.jpg "ToastMessageJS")
+
 ### Reference
 [Simple Toast Message (Vanilla JavaScript and CSS)](https://www.youtube.com/watch?v=EWveKYaX-P0)
