@@ -1,0 +1,66 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+  width: 100%;
+  padding: 1rem;
+}
+
+button.flat-btn {
+  color: #FFF;
+  font-size: 1.25rem;
+  font-weight: 600;
+  border: 2px solid #FFF;
+  padding: 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  min-width: 8rem;
+  transition: all 0.2s ease-in-out;
+}
+
+button.success {
+  background-color: #4CAF50;
+}
+
+button.success:hover {
+  background-color: #FFF;
+  color: #4CAF50;
+  border: 2px solid #4CAF50;
+}
+
+button.info {
+  background-color: #2196F3;
+}
+
+button.info:hover {
+  background-color: #FFF;
+  color: #2196F3;
+  border: 2px solid #2196F3;
+}
+
+button.warning {
+  background-color: #FF9800;
+}
+
+button.warning:hover {
+  background-color: #FFF;
+  color: #FF9800;
+  border: 2px solid #FF9800;
+}
+
+button.error {
+  background-color: #F44336;
+}
+
+button.error:hover {
+  background-color: #FFF;
+  color: #F44336;
+  border: 2px solid #F44336;
+}
