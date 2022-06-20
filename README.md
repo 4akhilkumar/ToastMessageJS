@@ -2,7 +2,7 @@
 Toast Messages using Vanilla JavaScript and CSS
 
 ## Integrate ToastMessageJS
-### Import **Query-3.6.0, Google Icons, Toast Javascript Code Link** and place it in head of your HTML file
+### Import *Query-3.6.0, Google Icons, Toast Javascript Code Link* and place it in head of your HTML file
 ```
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
