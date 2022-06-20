@@ -2,14 +2,13 @@
 Toast Messages using Vanilla JavaScript and CSS
 
 ## Integrate ToastMessageJS
-### Import Query-3.6.0 and place it in head of your HTML file
-```
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-```
-
-### Import Google Icons and place it in head of your HTML file
+### Import **Query-3.6.0, Google Icons, Toast Javascript Code Link** and place it in head of your HTML file
 ```
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<script src="https://cdn.rawgit.com/4akhilkumar/ToastMessageJS/master/index.js"></script>
 ```
 
 ### Use generateToast to display the message
