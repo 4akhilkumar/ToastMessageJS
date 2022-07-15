@@ -44,7 +44,7 @@ generateToast({
     npm install parcel -g
     ```
 2. Create a HTML (`index.html`) and JavaScript(`index.js`) files
-3. Follow [npm Integration](#npm-integration-toastmessagejs) upto [Installation](#installation)
+3. Follow [npm Integration](#npm-integration-toastmessagejs) and [Installation](#installation)
 4. In `index.js` write the code which is in [Use generateToast to display the message](#use-generatetoast-to-display-the-message)
 5. Import `index.js` in `index.html` with `type="module"`
     ```
