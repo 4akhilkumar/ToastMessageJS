@@ -2,13 +2,11 @@
 Toast Messages using Vanilla JavaScript and CSS
 
 ## Integrate ToastMessageJS
-### Import *Google Icons* and place it in head of your HTML file
+### Import *Google Icons*, *Toast Javascript* and place it in head of your HTML file
 ```
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-```
-### Import *Toast Javascript* and place it in body of your HTML file
-```
-<script src="https://cdn.rawgit.com/4akhilkumar/ToastMessageJS/master/index.js"></script>
+
+<script src="https://cdn.rawgit.com/4akhilkumar/ToastMessageJS/master/index.js" defer></script>
 ```
 ### Use generateToast to display the message
 ```
