@@ -12,7 +12,7 @@ Toast Messages using Vanilla JavaScript and CSS
 ```
 <script>
   generateToast({
-    status: <success, info, warning, error>,
+    status: 'success', // 'error' or 'info' or 'warning'
     message: "Ya sure about that? Ya sure about that?",
   });
 </script>
