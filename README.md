@@ -6,7 +6,7 @@ Toast Messages using Vanilla JavaScript and CSS
 ```
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-<script src="https://cdn.rawgit.com/4akhilkumar/ToastMessageJS/master/index.js" defer></script>
+<script src="https://cdn.rawgit.com/4akhilkumar/ToastMessageJS/master/toastmessage.js" defer></script>
 ```
 ### Use generateToast to display the message
 ```
