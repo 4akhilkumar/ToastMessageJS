@@ -1,4 +1,4 @@
-# ToastMessageJS
+# ToastMessageJS | ![npm](https://img.shields.io/npm/dt/toastmessage-js?label=Downloads)
 Toast Messages using Vanilla JavaScript and CSS
 
 ## Simple Integration ToastMessageJS
